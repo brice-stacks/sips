@@ -20,7 +20,7 @@
 
 **Layer:** Consensus (hard fork)
 
-**Status:** Accepted
+**Status:** Ratified
 
 **Created:** 2026-06-03
 
